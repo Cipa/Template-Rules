@@ -23,7 +23,7 @@ This plugin was previously known as automaticTpl. Point 2 above was added as ext
 Installation
 ------------
 
-I. Extract all files from package and upload "templaterules" folder in the "assets/plugins" folder.
+I. Extract all files from package and upload "templaterules" folder in the "assets/plugins" folder. If you downloaded the package from git rename folder to "templaterules".
 
 II. Set up TV(Template Variable)
 
